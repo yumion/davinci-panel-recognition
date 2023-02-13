@@ -128,8 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# image
-.png
-.jpg
-.mp4
-.csv
+# MacOS
+.DS_Store
+
+# data
+Image/
+Video/
+prediction/

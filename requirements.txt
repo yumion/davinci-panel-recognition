@@ -1,6 +1,6 @@
 tqdm
 numpy
-opencv-python
+opencv-contrib-python
 pillow
 pandas
 pyocr
